@@ -1,5 +1,5 @@
 # AI-future-mentor
-# AI Future Me Mentor 🚀
+# AI Future Me Mentor 
 
 An AI-powered app that generates personalized career roadmaps using Streamlit and Gemini AI.
 
