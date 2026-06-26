@@ -16,7 +16,7 @@ An AI-powered app that generates personalized career roadmaps using Streamlit an
 - ReportLab
 
 ## Run Locally
-streamlit run app.py
+py -m streamlit run app.py
 
 ## Author
 Made by Dhana
