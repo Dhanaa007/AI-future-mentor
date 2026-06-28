@@ -12,7 +12,7 @@ An AI-powered app that generates personalized career roadmaps using Streamlit an
 ## Tech Stack
 - Python
 - Streamlit
-- Gemini API
+- Grok API
 - ReportLab
 
 ## Run Locally
